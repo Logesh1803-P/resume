@@ -48,7 +48,7 @@ a{
    text-decoration:none;}
 }
 a:hover {
-  color:yellow;
+  color:#66BFBF;
  }
    
 
@@ -69,7 +69,7 @@ a:hover {
 }
 .top_cloud{
  position:absolute;
- right:300px;
+ right:500px;
  top:50px;
   
 }
@@ -80,7 +80,7 @@ a:hover {
 }
 .skill-row{
  width:50%;
- margin:100px auto 100px auto;
+ margin:100px auto 200px auto;
  text-align:left;
 
 }
