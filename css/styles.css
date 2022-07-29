@@ -48,7 +48,7 @@ a{
    text-decoration:none;}
 }
 a:hover {
-  color:#66BFBF;
+  color:yellow;
  }
    
 
@@ -66,25 +66,31 @@ a:hover {
  background-color:#66BFBF;
  padding-top: 50px;
  padding-bottom: 20px}
- 
 }
-
+.top_cloud{
+    position:absolute;
+    right:300px;
+    top:50px;
+    
+}
   
-.skill-row{
- width:50%;
- margin:100px auto 200px auto;
- text-align:left;
 
-}
 .bottom_cloud{
   position:absolute;
   left:300px;
   bottom:300px;
 }
 .top_cloud{
-  position:absolute;
-  right:250px;
+    position:absolute;
+    right:250px;
     top:50px;
+    
+}
+.skill-row{
+ width:50%;
+ 
+margin: 100px auto 200px auto;
+    text-align: left;
 }
 
 
