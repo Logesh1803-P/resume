@@ -68,11 +68,6 @@ a:hover {
  padding-bottom: 20px}
  
 }
-.bottom_cloud{
-  position:absolute;
-  left:300px;
-  bottom:300px;
-}
 .top_cloud{
   position:absolute;
   right:250px;
@@ -84,6 +79,11 @@ a:hover {
  margin:100px auto 200px auto;
  text-align:left;
 
+}
+.bottom_cloud{
+  position:absolute;
+  left:300px;
+  bottom:300px;
 }
 
 
