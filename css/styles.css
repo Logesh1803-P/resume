@@ -68,11 +68,7 @@ a:hover {
  padding-bottom: 20px}
  
 }
-.top_cloud{
-  position:absolute;
-  right:250px;
-    top:50px;
-}
+
   
 .skill-row{
  width:50%;
@@ -84,6 +80,11 @@ a:hover {
   position:absolute;
   left:300px;
   bottom:300px;
+}
+.top_cloud{
+  position:absolute;
+  right:250px;
+    top:50px;
 }
 
 
